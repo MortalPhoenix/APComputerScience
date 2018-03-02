@@ -1,9 +1,9 @@
-package Chapter_4.Projects;
+package Chapter_4.Projects.Box;
 
 public class Box {
 
-    int height, width, depth;
-    boolean full;
+    private int height, width, depth;
+    private boolean full;
 
     public Box(int height, int width, int depth) {
         this.height = height;

@@ -1,4 +1,4 @@
-package Chapter_4.Projects;
+package Chapter_4.Projects.Book;
 
 public class Book {
 

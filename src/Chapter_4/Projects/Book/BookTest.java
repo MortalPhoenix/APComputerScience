@@ -1,4 +1,6 @@
-package Chapter_4.Projects;
+package Chapter_4.Projects.Book;
+
+import Chapter_4.Projects.Book.Book;
 
 public class BookTest {
 
