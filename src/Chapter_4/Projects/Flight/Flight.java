@@ -5,10 +5,10 @@ public class Flight {
     private String airline, origin, destination;
     private int flightNumber;
 
-    public Flight(String airline, String origin, String destination, int flightNumber) {
+    public Flight(String airline, String origin, String destintion, int flightNumber) {
         this.airline = airline;
         this.origin = origin;
-        this.destination = destination;
+        this.destination = destintion;
         this.flightNumber = flightNumber;
     }
 
